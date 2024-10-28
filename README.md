@@ -21,6 +21,8 @@ A geração do modelo pelo micromlgen é o arquivo ```robot-line-follower\model.
 
 No Arduíno, por sua vez, é necessário baixar a biblioteca ```Eloquent```e utilizar a variável de acordo com o modelo treinado.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/michelpf/arduino-line-follower-robot/blob/main/treinamento/treinamento-colab.ipynb)
+
 
 ## Componentes utilizados
 
